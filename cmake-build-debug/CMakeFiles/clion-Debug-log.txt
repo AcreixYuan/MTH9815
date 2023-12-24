@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/Suyang/Desktop/Baruch/2023 Fall/MTH9815 Software Engineering/Final_Project" -B "/Users/Suyang/Desktop/Baruch/2023 Fall/MTH9815 Software Engineering/Final_Project/cmake-build-debug"
+-- Found Boost 1.70.0 at /Users/Suyang/opt/anaconda3/lib/cmake/Boost-1.70.0
+--   Requested configuration: QUIET REQUIRED COMPONENTS system;filesystem
+-- Found boost_headers 1.70.0 at /Users/Suyang/opt/anaconda3/lib/cmake/boost_headers-1.70.0
+-- Found boost_system 1.70.0 at /Users/Suyang/opt/anaconda3/lib/cmake/boost_system-1.70.0
+--   libboost_system.a
+-- Adding boost_system dependencies: headers
+-- Found boost_filesystem 1.70.0 at /Users/Suyang/opt/anaconda3/lib/cmake/boost_filesystem-1.70.0
+--   libboost_filesystem.a
+-- Adding boost_filesystem dependencies: headers
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/Suyang/Desktop/Baruch/2023 Fall/MTH9815 Software Engineering/Final_Project/cmake-build-debug
